@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: dictmunger
+Version: 0.1dev
+Summary: Mapping and transformation of dictionaries
+Home-page: http://www.agapow.net/software/dictmunger/
+Author: Paul Agapow
+Author-email: pma@agapow.net
+License: MIT
+Description: A common programming task is to munge a stream of dicts resulting reading a
+        a CSV file, a database table or so on. This package aids that process by
+        providing a classes to transform and filter dicts and their contents.
+        	
+Keywords: dict transformation xml
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python

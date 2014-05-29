@@ -1,0 +1,12 @@
+README.rst
+setup.cfgs
+setup.py
+dictmunger/__init__.py
+dictmunger/basedictmunger.py
+dictmunger/simplemungers.py
+dictmunger.egg-info/PKG-INFO
+dictmunger.egg-info/SOURCES.txt
+dictmunger.egg-info/dependency_links.txt
+dictmunger.egg-info/entry_points.txt
+dictmunger.egg-info/not-zip-safe
+dictmunger.egg-info/top_level.txt
